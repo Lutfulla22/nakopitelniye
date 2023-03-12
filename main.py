@@ -2,7 +2,7 @@ import telebot
 import buttons
 from database import Data
 
-bot = telebot.TeleBot('6150355725:AAG1BcDWyiO2mYWI_ZK7r7F6VPZwHfvt1gY')
+bot = telebot.TeleBot('Token')
 
 
 
